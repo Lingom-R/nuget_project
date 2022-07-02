@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GenericHostConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "read"
+    }
+  }
+}
